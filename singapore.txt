@@ -1,2 +1,2 @@
-Hi this is a message from singapoer office.
+Hi this is a message from singapore office.
 This is a first commit from here
